@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Dennis Sev7n
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Flutter 
-- 💞️ I’m looking to collaborate on anything at all. Afterall, I need the experience
-- 📫 How to reach me through emai at Gilbertdennis3@gmail.com
+- 👋 Hi, I’m Dennis Gilbert
+- 👀 I am a Cybersecurity Analyst | Cybersecurity Technician | Mobile App Development and Security | Helpdesk Support 
+- 💞️ I’m looking to collaborate on any project available. Afterall, I need the experience.
+- 📫 Reach out to me through email at Gilbertdennis3@gmail.com
 
 <!---
 DennisSev7n/DennisSev7n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
